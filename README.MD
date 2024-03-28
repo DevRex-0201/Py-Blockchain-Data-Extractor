@@ -4,7 +4,7 @@ Blockchain Data Extractor is a sophisticated Python script tailored for the auto
 
 ## Video Preview
 
-[![Video Preview](github.com/DevRex-0201/Py-Blockchain-Data-Extractor)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Blockchain-Data-Extractor.mp4)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Blockchain-Data-Extractor.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Blockchain-Data-Extractor.mp4)
 
 ## Features
 
