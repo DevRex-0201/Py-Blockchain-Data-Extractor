@@ -2,6 +2,10 @@
 
 Blockchain Data Extractor is a sophisticated Python script tailored for the automated extraction of cryptocurrency, wallet provider names and logo information directly from "https://defillama.com/". It streamlines the process of collecting cryptocurrency data, including names and logo URLs, uploading these details into a Google Sheets document for organized access, and saving the logos locally in a specified directory.
 
+## Video Preview
+
+[![Video Preview](github.com/DevRex-0201/Py-Blockchain-Data-Extractor)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Blockchain-Data-Extractor.mp4)
+
 ## Features
 
 - **Automated Data Scraping**: Seamlessly scrapes cryptocurrency names and their logo URLs from "https://defillama.com/".
